@@ -2,18 +2,16 @@
   {
     "id":1
     "name":"hinh1"
-     "image":"hinh01.png"
+     "avatar":"hinh01.png"
   },
   {
   "id":2
     "name":"hinh2"
-     "image":"hinh02.png"
+     "avatar":"hinh02.png"
   },
   {
     "id":3
     "name":"hinh3"
-     "image":"hinh03.png"
-  }
-
-  
+     "avatar":"hinh03.png"
+  }  
   ]
