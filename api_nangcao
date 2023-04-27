@@ -2,17 +2,17 @@
   {
     "id":1
     "name":"hinh1"
-     "image":"hinh1.png"
+     "image":"hinh01.png"
   },
   {
   "id":2
     "name":"hinh2"
-     "image":"hinh2.png"
+     "image":"hinh02.png"
   },
   {
     "id":3
     "name":"hinh3"
-     "image":"hinh3.png"
+     "image":"hinh03.png"
   }
 
   
