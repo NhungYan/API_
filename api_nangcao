@@ -1,17 +1,17 @@
 [
   {
-    "id":1
-    "name":"hinh1"
+    "id":1,
+    "name":"hinh1",
      "avatar":"https://i.pinimg.com/236x/f8/ad/f6/f8adf64969c99fec1c8d8f628e2444d2.jpg"
   },
   {
-  "id":2
-    "name":"hinh2"
+  "id":2,
+    "name":"hinh2",
      "avatar":"https://i.pinimg.com/564x/2c/89/63/2c89637d299b112c649c600ee8f1f146.jpg"
   },
   {
-    "id":3
-    "name":"hinh3"
+    "id":3,
+    "name":"hinh3",
      "avatar":"https://i.pinimg.com/236x/c4/97/8c/c4978cf97f989fa3aee8130b45b503a9.jpg"
   }  
   ]
